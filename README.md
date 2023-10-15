@@ -17,5 +17,5 @@
 ### 📫 Contact Information
 - Email: bndr@mrtn.vip
 - Discord: bndrmrtn
-- Instagram: @bndrmrtn
+- Instagram: [@bndrmrtn](https://instagram.com/bndrmrtn)
 - My Website: https://mrtn.vip
