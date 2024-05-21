@@ -1,6 +1,6 @@
 # Hey 👋
 
-> Currently, I am a 17-year-old high school student at [ESZC Bottyán János secondary vocational school](https://bottyan.eu), majoring in IT Systems Administration. However, I feel that my real passion lies in software development. I created my very first program in **2016**, similar to using blocks, just like in Scratch. But let's get to the point 😉
+> Currently, I am a 18-year-old high school student at [ESZC Bottyán János secondary vocational school](https://bottyan.eu), majoring in IT Systems Administration. However, I feel that my real passion lies in software development. I created my very first program in **2016**, similar to using blocks, just like in Scratch. But let's get to the point 😉
 
 ### 🚀 What am I skilled at?
 
