@@ -4,7 +4,7 @@
 
 ### 🚀 What am I skilled at?
 
-> Currently, I work most with Laravel and Vue.js (*Typescript*) frameworks. I got into Vue.js around **2020** (during the quarantine period 😆) and invested a lot of time into learning it. I've completed many small and large projects with it, including my personal website.
+> Currently, I work most with Go and Vue.js (*Typescript*). I got into Vue.js around **2020** (during the quarantine period 😆) and invested a lot of time into learning it. I've completed many small and large projects with it, including my personal website.
 
 > Of course, I couldn't achieve all the ideas and projects I envisioned with just that, so I needed a backend. Ultimately, I chose PHP. I know that not many people favor this choice, but with the Laravel framework, almost anything is possible. Additionally, since I frequently used similar solutions in my projects, I also created my own *framework*, [FlameCore](https://flamephp.mrtn.vip).
 
