@@ -1,18 +1,19 @@
 # Hey 👋
 
-> Currently, I am a 18-year-old high school student at [ESZC Bottyán János secondary vocational school](https://bottyan.eu), majoring in IT Systems Administration. However, I feel that my real passion lies in software development. I created my very first program in **2016**, similar to using blocks, just like in Scratch. But let's get to the point 😉
+> I'm a 19-year-old high school student at [ESZC Bottyán János secondary vocational school](https://bottyan.eu), specializing in IT Systems Administration. But honestly, my real passion is **software development**. I wrote my first program back in **2016**, using a block-based approach (similar to Scratch). Since then, coding has been an everyday part of my life.
 
-### 🚀 What am I skilled at?
+### 🚀 What do I do?
 
-> Currently, I work most with Go and Vue.js (*Typescript*). I got into Vue.js around **2020** (during the quarantine period 😆) and invested a lot of time into learning it. I've completed many small and large projects with it, including my personal website.
+> I mainly work with **Go** and **Vue.js** *(TypeScript)*. I got into Vue.js during the **2020** quarantine and quickly fell in love with it. Over the years, I’ve built many projects with it, including my personal website. Of course, frontend alone wasn’t enough, so I started working with backend technologies. Initially, I used *PHP* with **Laravel**, but recently, Go has become my primary backend language due to its performance and simplicity.
 
-> Of course, I couldn't achieve all the ideas and projects I envisioned with just that, so I needed a backend. Ultimately, I chose PHP. I know that not many people favor this choice, but with the Laravel framework, almost anything is possible. Additionally, since I frequently used similar solutions in my projects, I also created my own *framework*, [FlameCore](https://flamephp.mrtn.vip).
+> Besides these, I’m also developing my own programming language:
+> [**Zx** Language](https://github.com/bndrmrtn/zxl) – An interpreted scripting language for web development, featuring a built-in HTTP server and HTML template literals. 🚀
 
-> I still use the aforementioned frameworks, and I've delved into a new language, **Go**. I want to have a strongly typed language as part of my skill set.
+> I also built **[MyCloud]**(https://github.com/bndrmrtn/mycloud), a cloud storage service where users can upload, download, and manage files from anywhere via a web application.
 
-### 🤔 Why would you choose me?
+### 🤔 Why work with me?
 
-> Honestly, when I learn something new, it's not the money that motivates me. Understanding and grasping new technologies is much more important to me. I love that in programming, there are countless ways to solve every problem, and I'm open to embracing the latest solutions and technologies. That's why I'm learning **Go** now. 😎
+> Learning is something I'm genuinely passionate about. I’m always working to improve my skills, not because I have to, but because I enjoy truly understanding how things work. To get a better at Go, I recently picked up a book on **100 Go Mistakes and How to Avoid Them** to learn from common pitfalls and improve my approach. As I develop my own programming language, I’ve been diving into **lexers** and **abstract syntax trees (AST)**, which has given me a much deeper understanding of how programming languages break down and process code.
 
 ### 📫 Contact Information
 - Email: bndr@mrtn.vip
