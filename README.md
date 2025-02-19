@@ -9,7 +9,7 @@
 > Besides these, I’m also developing my own programming language:
 > [**Zx** Language](https://github.com/bndrmrtn/zxl) – An interpreted scripting language for web development, featuring a built-in HTTP server and HTML template literals. 🚀
 
-> I also built **[MyCloud]**(https://github.com/bndrmrtn/mycloud), a cloud storage service where users can upload, download, and manage files from anywhere via a web application.
+> I also built **[MyCloud](https://github.com/bndrmrtn/mycloud)**, a cloud storage service where users can upload, download, and manage files from anywhere via a web application.
 
 ### 🤔 Why work with me?
 
